@@ -41,3 +41,5 @@ print(ps)
 <p align="center">
   <img width="450px" src="https://user-images.githubusercontent.com/4949982/36096096-2d6a7110-1038-11e8-92e5-9591c030aaa5.png">
 </p>
+
+これをもってして有効か無効かという視点では、なにかしらバイアスがあって平等に起こり得るという状態が否決されたと見させそうです  
