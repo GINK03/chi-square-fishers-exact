@@ -37,3 +37,7 @@ for a in range(0, 6 + 1):
   print(a, s)
 print(ps)
 ```
+これを行うと山状の形を自由度に応じて得ることができて、山の面積の95%以外にあればそれは自然に起きたことではないという解釈が成り立ちそうである  
+<p align="center">
+  <img width="450px" src="https://user-images.githubusercontent.com/4949982/36096096-2d6a7110-1038-11e8-92e5-9591c030aaa5.png">
+</p>
