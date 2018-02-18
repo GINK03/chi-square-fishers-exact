@@ -49,3 +49,6 @@ print(ps)
 
 サイコロを具体例にとって説明すると、カイ二乗は、理論的な期待値（すべてのサイコロの目が平等にでる）から、観測された頻度の期待値（実際になんの目が何回でたかなど）の累積の誤差を求める作業と等価に見えます  
 
+<div align="center">
+  <img width="285" src="https://user-images.githubusercontent.com/4949982/36349015-5ad69156-14c0-11e8-8b4f-955dfe34de2a.png">
+</div>
