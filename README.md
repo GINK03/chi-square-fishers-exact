@@ -99,3 +99,10 @@ print(f'p-val {p}')
 <div align="center">
   <img width="400px" src="https://user-images.githubusercontent.com/4949982/36349312-f363f3ae-14c6-11e8-98fc-6bd50bcd5513.png">
 </div>
+## chi二乗検定
+fisher's exactのような考え方を持ち込むことも可能なようにおもっていて（かなり無理くり感がありますが.）、DF(動かせる変数)を少しずつ全部見てその和をとり、chi二乗分布の表との見比べでp値を算出しますが、かりに、⊿が何かの絶対値でとある分布が取りにくいことを別の事象として定義するならば、これらの差のfisher's exactを算出しても意味があるものとなるかと思います(小並)  
+
+# 参考文献
+- [Values of the Chi-squared distribution](https://www.medcalc.org/manual/chi-square-table.php)
+
+
