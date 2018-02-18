@@ -9,7 +9,7 @@ chi二乗検定と、fisherの正確検定について知見と使い方とか
 例として2x2の4つの目を仮定します
 
 <p align="center">
-  <img width="350px" src="https://user-images.githubusercontent.com/4949982/36095653-6df7e584-1036-11e8-9530-a157984f0d01.png">
+  <img width="350px" src="https://user-images.githubusercontent.com/4949982/36349409-7c786d44-14c9-11e8-88e4-d38807aeff19.png">
 </p>
 ある組み合わせが起こりうる頻度を表すとこのようになります  
 
