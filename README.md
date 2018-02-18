@@ -91,3 +91,11 @@ chisq,p = stats.chisquare(observed,expected)
 print(f'chisq {chisq}')
 print(f'p-val {p}')
 ```
+
+# おまけ
+導出や理解をするにあたってしたことを雑にまとめています  
+
+## fisher's exact
+<div align="center">
+  <img width="400px" src="https://user-images.githubusercontent.com/4949982/36349312-f363f3ae-14c6-11e8-98fc-6bd50bcd5513.png">
+</div>
