@@ -9,7 +9,7 @@ chi二乗検定と、fisherの正確検定について知見と使い方とか
 例として2x2の4つの目を仮定します
 
 <p align="center">
-  <img width="350px" src="https://user-images.githubusercontent.com/4949982/36349409-7c786d44-14c9-11e8-88e4-d38807aeff19.png">
+  <img width="350px" src="https://user-images.githubusercontent.com/4949982/36095653-6df7e584-1036-11e8-9530-a157984f0d01.png">
 </p>
 ある組み合わせが起こりうる頻度を表すとこのようになります  
 
@@ -39,7 +39,7 @@ print(ps)
 ```
 これを行うと山状の形を自由度に応じて得ることができて、山の面積の95%以外にあればそれは自然に起きたことではないという解釈が成り立ちそう  
 <p align="center">
-  <img width="450px" src="https://user-images.githubusercontent.com/4949982/36096096-2d6a7110-1038-11e8-92e5-9591c030aaa5.png">
+  <img width="450px" src="https://user-images.githubusercontent.com/4949982/36349409-7c786d44-14c9-11e8-88e4-d38807aeff19.png">
 </p>
 
 これをもってして何が言えるかというしてん視点では、なにかしらバイアスがあっていい悪いsi, webの選択が平等に起こり得るという状態が否決されたと見させそうです（例えばweb, siの差を論じるたぐいの解釈は難しいです）  
