@@ -54,5 +54,5 @@ print(ps)
 </div>
 
 <div align="center">
-  <img width="285" src="https://user-images.githubusercontent.com/4949982/36349049-ff03a0f2-14c0-11e8-9c87-b2b74eb06b20.png">
+  <img width="526" src="https://user-images.githubusercontent.com/4949982/36349049-ff03a0f2-14c0-11e8-9c87-b2b74eb06b20.png">
 </div>
