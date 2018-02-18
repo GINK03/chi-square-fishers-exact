@@ -56,3 +56,9 @@ print(ps)
 <div align="center">
   <img width="526" src="https://user-images.githubusercontent.com/4949982/36349049-ff03a0f2-14c0-11e8-9c87-b2b74eb06b20.png">
 </div>
+
+このような観測があった場合、例えばx^2は3.19となり、x^2分布をみると、下図のこの辺に位置しており全然中央に近い値なので、差はない（つまり自然なサイコロである）と言えそうです  
+
+<div align="center">
+  <img width="526" src="https://user-images.githubusercontent.com/4949982/36349105-ad98c09c-14c2-11e8-95eb-a8b704a8e8d4.png">
+</div>
