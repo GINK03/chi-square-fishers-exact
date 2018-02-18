@@ -62,3 +62,29 @@ print(ps)
 <div align="center">
   <img width="526" src="https://user-images.githubusercontent.com/4949982/36349105-ad98c09c-14c2-11e8-95eb-a8b704a8e8d4.png">
 </div>
+
+現実的にはカイ二乗分布とよばれる表と対応させて調べるのは大変なので、ライブラリに隠蔽された状態で扱うのですが、例えばPythonでのサイコロの検定はこんな感じで、とても簡単にできます  
+
+(ランダム関数で、1000回適当にサイコロを回しています)
+```python
+from scipy import stats
+
+import random
+
+from collections import Counter
+observed = []
+for i in range(1000):
+  x = random.choice([x+1 for x in range(6)])
+  observed.append(x)
+
+observed = [freq for me, freq in sorted(dict(Counter(observed)).items(), key=lambda x:x[1]) ]
+print(observed)
+
+expected = [1000*1/6 for i in range(6)]
+print(expected)
+
+chisq,p = stats.chisquare(observed,expected)
+
+print(f'chisq {chisq}')
+print(f'p-val {p}')
+```
